@@ -28,7 +28,7 @@ I'm a passionate Frontend Engineer with experience in building dynamic and respo
 ## 📈 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C870%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C877%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,17 +71,17 @@ Sunday                   9552 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-TypeScript               14 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
-JavaScript               8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Docker                   6 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TypeScript               15 hrs 46 mins      ██████████░░░░░░░░░░░░░░░   40.40 % 
+JavaScript               8 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Docker                   6 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JSON                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  39 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      36 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      39 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +101,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheJazzDev/TheJazzDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 18:59:04 UTC
+ Last Updated on 16/03/2025 19:00:53 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Most Used Languages
